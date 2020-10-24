@@ -1,6 +1,18 @@
-h1{
-    color: white;
-}
+
 body{
     background-color: black;
 }
+h1{
+    color: white;
+    
+}
+p{
+    color: white;
+}
+.Search{
+    float: left;
+    box-sizing: border-box;
+    height: 60px;
+    width: 100%;
+}
+
