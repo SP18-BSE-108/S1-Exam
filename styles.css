@@ -96,7 +96,6 @@ ul li a{
     cursor: pointer;
     display: inline-block;
 }
-
 .container{
     width: 90%;
     margin: auto;
@@ -109,13 +108,12 @@ ul li a{
     padding: 0px;
     margin: 0px;
 }
-
 .container ul li{
     float:left;
     list-style:none;
-    width : 40%;
+    width : 293%;
     height:300px;
-    background-image: url(./5.jpg);
+    background-image: url(./2.jpg);
     margin : 20px 0px 20px 55px;
     border:2px solid black;
     box-sizing: border-box;
@@ -127,8 +125,8 @@ ul li a{
 
 @media screen and (max-width:1250px){
     .container ul li{
-        width:40%;
-        margin-left: 20px;
+        width: 20px;
+        margin: 20px;
     }
 }
 .containers{
@@ -160,16 +158,224 @@ ul li a{
     color: black;
     opacity: 0.8;
 }
-
 @media screen and (max-width:1250px){
     .containers ul li{
         width:40%;
-        margin-left: 20px;
+        margin: 20px;
     }
 }
+
+.container1{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+    margin-top: 20px;
+}
+
+.container1 ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container1 ul li{
+    float:left;
+    list-style:none;
+    width : 190%;
+    height:300px;
+    background-image: url(./3.jpg);
+    margin : 20px 0px 20px 55px;
+    border:2px solid black;
+    box-sizing: border-box;
+    transition: 0.6s ease;
+}
+.container1 ul li:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width:1250px){
+    .container1 ul li{
+        width: 20px;
+        margin: 20px;
+    }
+}
+
+
+.container2{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+    margin-top: 20px;
+}
+
+.container2 ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container2 ul li{
+    float:left;
+    list-style:none;
+    width : 105%;
+    height:300px;
+    background-image: url(./9.jpg);
+    margin : 20px 0px 20px 55px;
+    border:2px solid black;
+    box-sizing: border-box;
+    transition: 0.6s ease;
+}
+.container2 ul li:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width:1250px){
+    .container2 ul li{
+        width: 20px;
+        margin: 20px;
+    }
+}
+
+
+.container3{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+    margin-top: 20px;
+}
+
+.container3 ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container3 ul li{
+    float:left;
+    list-style:none;
+    width : 133%;
+    height:300px;
+    background-image: url(./5.jpg);
+    margin : 20px 0px 20px 55px;
+    border:2px solid black;
+    box-sizing: border-box;
+    transition: 0.6s ease;
+}
+.container3 ul li:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width:1250px){
+    .container3 ul li{
+        width: 20px;
+        margin: 20px;
+    }
+}
+
+
+.container4{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+    margin-top: 20px;
+}
+
+.container4 ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container4 ul li{
+    float:left;
+    list-style:none;
+    width : 1310%;
+    height:300px;
+    background-image: url(./6.jpg);
+    margin : 20px 0px 20px 55px;
+    border:2px solid black;
+    box-sizing: border-box;
+    transition: 0.6s ease;
+}
+.container4 ul li:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width:1250px){
+    .container4 ul li{
+        width: 20px;
+        margin: 20px;
+    }
+}
+
+
+.container5{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+    margin-top: 20px;
+}
+
+.container5 ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container5 ul li{
+    float:left;
+    list-style:none;
+    width : 1310%;
+    height:300px;
+    background-image: url(./7.jpg);
+    margin : 20px 0px 20px 55px;
+    border:2px solid black;
+    box-sizing: border-box;
+    transition: 0.6s ease;
+}
+.container5 ul li:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width:1250px){
+    .container5 ul li{
+        width: 20px;
+        margin: 20px;
+    }
+}
+
+
+.container6{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: black;
+    margin-top: 20px;
+}
+
+.container6 ul{
+    padding: 0px;
+    margin: 0px;
+}
+.container6 ul li{
+    float:left;
+    list-style:none;
+    width : 1310%;
+    height:300px;
+    background-image: url(./8.jpg);
+    margin : 20px 0px 20px 55px;
+    border:2px solid black;
+    box-sizing: border-box;
+    transition: 0.6s ease;
+}
+.container6 ul li:hover{
+    opacity: 0.8;
+}
+
+@media screen and (max-width:1250px){
+    .container6 ul li{
+        width: 20px;
+        margin: 20px;
+    }
+}
+
 footer{
     text-align: center;
     size: 100px;
     color: green;
-
 }
