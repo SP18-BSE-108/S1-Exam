@@ -15,4 +15,19 @@ p{
     height: 60px;
     width: 100%;
 }
+.Search .Search-input input {
+    background: white;
+}
+.subscribe-button{
+    color: green;
+    margin: auto;
+    border: 0;
+    font: normal bold 20px Ubuntu, sans-serif;
+    text-transform: uppercase;
+    white-space: nowrap;
+    background: 0 0;
+    outline: 0;
+    cursor: pointer;
+    display: inline-block;
+}
 
