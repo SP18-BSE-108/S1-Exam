@@ -29,6 +29,17 @@ p{
     transform: translate(-10%,-10%);
     border-radius: 40px;
 }
+.Search-btn{
+    color: thistle;
+    float: left;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: thistle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .Search .Search-input input {
     background-color: silver;
     size: 300px;
